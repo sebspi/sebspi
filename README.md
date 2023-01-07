@@ -4,9 +4,9 @@ I am Sebastian, a professional mobile app developer focusing on native iOS and F
 #### My skill set
 :diamonds: <b>iOS</b> with <b>UIKit & SwiftUI</b>, <b>Async/Await</b>, <b>CoreBluetooth</b>, <b>CoreData</b>, <b>Firebase</b>, <b>MVVM/MVC</b>
 
-:large_orange_diamond: <b>Flutter</b> with Bloc <b>Pattern</b>, <b>Firebase</b>
+:large_orange_diamond: <b>Flutter</b> with <b>Bloc Pattern</b>, <b>Firebase</b>
 
-:large_blue_diamond: <b>Backend</b> with <b>NodeJS</b>, <b>ExpressJS</b>, <b>PM2</b>
+:large_blue_diamond: <b>Backend</b> with <b>NodeJS</b>, <b>ExpressJS</b>, <b>PM2</b>, <b>Firebase</b>
 
 #### Contact
 Feel free to reach out to me for help, collabs or side hustles.
