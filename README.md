@@ -6,7 +6,7 @@ I am Sebastian, a professional mobile app developer focusing on native iOS and F
 
 :large_orange_diamond: <b>Flutter</b> with <b>Bloc Pattern</b>, <b>Firebase</b>
 
-:large_blue_diamond: <b>Backend</b> with <b>NodeJS</b>, <b>ExpressJS</b>, <b>PM2</b>, <b>Firebase</b>
+:large_blue_diamond: <b>Backend</b> with <b>NodeJS</b>, <b>strapi</b>, <b>PM2</b>, <b>Firebase</b>
 
 #### Contact
 Feel free to reach out to me for help, collabs or side hustles.
