@@ -1,5 +1,5 @@
 ### Hey, nice to meet you 👋
-I am Sebastian, a professional mobile app developer focusing on native iOS and Flutter development. I am working for an agency and actually building a small business as a freelancer. I am always interested in interesting projects where I can contribute my expertise.
+I am Sebastian, a professional mobile app developer focusing on native iOS and Flutter development. I am working as a freelancer. I am always interested in interesting projects where I can contribute my expertise.
 
 #### My skill set
 :diamonds: <b>iOS</b> with <b>UIKit & SwiftUI</b>, <b>Async/Await</b>, <b>CoreBluetooth</b>, <b>CoreData</b>, <b>Firebase</b>, <b>MVVM/MVC</b>
